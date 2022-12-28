@@ -1,0 +1,11 @@
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\bin\Debug\DataFormatterShmatter.exe.config
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\bin\Debug\DataFormatterShmatter.exe
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\bin\Debug\DataFormatterShmatter.pdb
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\bin\Debug\DateFormatter.dll
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\bin\Debug\DateFormatter.pdb
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.csproj.CopyComplete
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.exe
+C:\Users\user.UIT\Desktop\holocaust\DataFormatterShmatter\obj\Debug\DataFormatterShmatter.pdb

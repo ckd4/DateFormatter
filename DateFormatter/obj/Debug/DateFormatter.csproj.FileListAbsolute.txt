@@ -1,0 +1,6 @@
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\bin\Debug\DateFormatter.dll
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\bin\Debug\DateFormatter.pdb
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\obj\Debug\DateFormatter.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\obj\Debug\DateFormatter.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\obj\Debug\DateFormatter.dll
+C:\Users\user.UIT\Desktop\holocaust\DateFormatter\obj\Debug\DateFormatter.pdb
